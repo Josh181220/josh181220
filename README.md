@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>Hi there! 👋</h1>
-I'm **Josh** from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories. I'm always excited to learn new things, collaborate on interesting projects, and contribute to the data community. Let's connect and explore the power of data together!
+I'm Josh from the Philippines, a passionate Data Analyst with a deep love for Data Visualization. I enjoy turning complex data into meaningful insights and using creativity to tell compelling data-driven stories. I'm always excited to learn new things, collaborate on interesting projects, and contribute to the data community. Let's connect and explore the power of data together!
 
 
 
