@@ -5,13 +5,16 @@ I'm Josh from the Philippines, a passionate Data Analyst with a deep love for Da
 
 
 
-<h2>💡 What I Do:</h2>  
+<h2>💡 What I'm passionate about:</h2>  
 
 | **Activity**              | **Description**                                                                                             |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Data Analysis**          | Transform raw data into actionable insights.                                                               |
-| **Data Visualization**     | Create visually appealing and informative charts, dashboards, and reports.                                 |
-| **Storytelling with Data** | Combine analytical insights with creative expression to communicate data effectively.                      |
+| **Data Analysis**          | Transform raw data into actionable insights, always focusing on sustainable, efficient, and impactful solutions. |
+| **Cloud Solutions**        | Design and implement tailored cloud architectures that solve business challenges while prioritizing sustainability and scalability. |
+| **Sustainable Decision-Making** | Ensure that every solution recommended considers environmental impact, optimizing energy efficiency and long-term sustainability in cloud infrastructure. |
+| **Data Visualization**     | Create visually appealing and informative charts, dashboards, and reports, aligning with cloud-native tools and sustainable practices. |
+| **Storytelling with Data** | Combine analytical insights with creative expression to communicate data effectively, embedding sustainability insights for informed decision-making. |
+
 
 
 <h2>💻 Technical Skills</h2>  
